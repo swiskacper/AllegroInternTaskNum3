@@ -2,7 +2,7 @@
 
 ## Opis
 Aplikacja RESTful stworzona w Javie 11 za pomocą frameworka Spring Boot. Aplikacja komunikuje się z GitHub REST
-API i pozwala na:
+API i pozwala na:<br>
 *Listowanie repozytoriów danego użytkownika (nazwa repozytorium + liczba gwiazdek) + ewentualne następne strony paginacyjne<br>
 *Zliczanie całkowitej liczby gwiazdek danego użytkownika (ze wszystkich repozytoriów)<br>
 *Listowanie języków programowania używanych w repozytoriach przez danego użytkownika<br>
